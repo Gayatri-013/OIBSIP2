@@ -1,0 +1,44 @@
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Josefin+Sans:ital,wght@0,400;1,500&family=Open+Sans&family=Roboto:wght@400;500&display=swap');
+
+ .home{
+	background-color:lightcoral;
+	height: 1000px;
+	width: 2000px;
+	
+	padding-top: 30px;
+/*	padding-left: 60px;*/
+  }
+  
+.home1{
+	 padding-top: 80px;
+     background-color: brown;
+     box-shadow: 10px 10px white;
+	 height: 200px;
+	 width: 800px;
+	 background-size: 1000px;
+	 
+ }
+ .home1:hover{
+ 	border-style: dotted;
+ }
+#inputFahrenheit{
+	border-radius: 75px;
+	border: none;
+	border: 2px solid black ;
+    font-weight: bold;
+}
+	
+
+.heading{
+	font-size: 25px;
+	font-family:Book Antiqua;
+	padding-top: 5px;
+	  
+}
+.head1{
+/*	 background-color: lightskyblue;*/
+padding-top: 5px;
+
+}
